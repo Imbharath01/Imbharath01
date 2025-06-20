@@ -31,7 +31,7 @@ Using prompt engineering for AI-enhanced automation and UX
 
 Improving public speaking and content creation for tech education
 
-📫 Connect with Me
+# 📫 Connect with Me
 **GitHub:** You're already here! 😃
 
 Open to collaborating on React, Flask, Spring Boot, IoT-based systems, and AI/prompt engineering projects.
