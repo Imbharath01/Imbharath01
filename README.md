@@ -10,7 +10,7 @@ Hey! I'm a passionate developer exploring the world of React and state managemen
 **💻 Web & IoT Development:** I’m focused on frontend development using React, backend development with Spring Boot and Flask, and integrating smart IoT systems for real-world use cases.
 
 # 🛠️ Technologies & Tools
-**Frontend:** React.js, JavaScript, HTML, CSS
+**Frontend:**  HTML, CSS, JavaScript, React.js, React Native,
 
 **Backend:** Java (Spring Boot), Python (Flask), ASP.NET
 
@@ -22,14 +22,16 @@ Hey! I'm a passionate developer exploring the world of React and state managemen
 
 **Version Control:** Git, GitHub
 
-# 🔥 Current Focus
-Developing full-stack applications with React + Spring Boot/Flask
+**Tools:** Postman, Swagger UI, Render, Antigravity
 
-Building intelligent IoT systems with sensor inputs and Flask-based APIs
+# 🔥 Current Focus
+Developing full-stack applications with React , ASP.NET
 
 Using prompt engineering for AI-enhanced automation and UX
 
 Improving public speaking and content creation for tech education
+
+Building E2E Mobile Applications
 
 # 📫 Connect with Me
 **GitHub:** You're already here! 😃
