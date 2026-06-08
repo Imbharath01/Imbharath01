@@ -12,7 +12,7 @@ Hey! I'm a passionate developer exploring the world of React and state managemen
 # 🛠️ Technologies & Tools
 **Frontend:** React.js, JavaScript, HTML, CSS
 
-**Backend:** Java (Spring Boot), Python (Flask)
+**Backend:** Java (Spring Boot), Python (Flask), ASP.NET
 
 **IoT:** ESP32, NodeMCU, Sensor Integration, Real-time Data
 
